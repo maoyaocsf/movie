@@ -1,9 +1,4 @@
-/*
- * @Author: iceStone
- * @Date:   2016-02-17 17:42:49
- * @Last Modified by:   iceStone
- * @Last Modified time: 2016-02-19 09:13:01
- */
+
 (function(angular) {
   angular.module('moviecat.directives.auto_focus', [])
     .directive('autoFocus', ['$location', function($location) {

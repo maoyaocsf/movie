@@ -1,9 +1,4 @@
-/*
- * @Author: iceStone
- * @Date:   2016-02-17 15:15:22
- * @Last Modified by:   iceStone
- * @Last Modified time: 2016-02-19 10:49:05
- */
+
 
 'use strict';
 
